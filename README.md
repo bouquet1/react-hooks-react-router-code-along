@@ -25,8 +25,7 @@ to see a favorite soil list.
 
 Because our personal opinion on the best soils is so important, we want to
 provide users with the opportunity to go straight to this list of the favorite
-soils view with a URL at `www.loveforsoils.com/favorites`. Enter **React
-Router**: a routing library for **React** that allows us to link to specific
+soils view with a URL at `www.loveforsoils.com/favorites`. Enter **React Router**: a routing library for **React** that allows us to link to specific
 URLs and conditionally render components depending on which URL is displayed.
 
 React Router is a collection of navigational components and custom hooks that
